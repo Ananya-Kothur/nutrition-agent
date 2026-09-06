@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-github-username/your-repository-name"
+    "url": "https://github.com/Ananya-Kothur/nutrition-agent"
   },
   "env_variables": [
     "PORT",
