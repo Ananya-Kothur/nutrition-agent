@@ -1,0 +1,24 @@
+{
+  "title": "Nutrition Agent",
+  "description": "An AI-powered Nutrition Agent developed as part of the IBM SkillsBuild Internship project.",
+  "version": "1.0.0",
+  "author": "K Ananya",
+  "project_type": "Watsonx Orchestrate Agent",
+  "main": "server.js",
+  "tech_stack": [
+    "Node.js",
+    "Express",
+    "Axios",
+    "IBM Watsonx Orchestrate",
+    "IBM Granite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-github-username/your-repository-name"
+  },
+  "env_variables": [
+    "PORT",
+    "WATSONX_API_KEY",
+    "WATSONX_URL"
+  ]
+}
